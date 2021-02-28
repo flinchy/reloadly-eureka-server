@@ -3,7 +3,7 @@ server:
 
 eureka:
   instance:
-    hostname: localhost
+    hostname: reloadly-eureka-server.herokuapp.com
   client:
     registerWithEureka: false
     fetchRegistry: false
